@@ -1,0 +1,9 @@
+D:\PersonalProjects\Evento\Evento\Evento\bin\Debug\Evento.dll
+D:\PersonalProjects\Evento\Evento\Evento\bin\Debug\Evento.pdb
+D:\PersonalProjects\Evento\Evento\Evento\bin\Debug\Xamarin.Forms.Core.dll
+D:\PersonalProjects\Evento\Evento\Evento\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\PersonalProjects\Evento\Evento\Evento\bin\Debug\Xamarin.Forms.Core.xml
+D:\PersonalProjects\Evento\Evento\Evento\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\PersonalProjects\Evento\Evento\Evento\obj\Debug\Evento.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\Evento\Evento\Evento\obj\Debug\Evento.dll
+D:\PersonalProjects\Evento\Evento\Evento\obj\Debug\Evento.pdb

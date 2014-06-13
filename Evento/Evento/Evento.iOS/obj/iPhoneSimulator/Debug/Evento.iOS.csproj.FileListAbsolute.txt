@@ -1,0 +1,13 @@
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\FormsTemplateiOS.exe
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\FormsTemplateiOS.pdb
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Evento.dll
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Evento.pdb
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Evento.dll.mdb
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+D:\PersonalProjects\Evento\Evento\Evento.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+D:\PersonalProjects\Evento\Evento\Evento.iOS\obj\iPhoneSimulator\Debug\Evento.iOS.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\Evento\Evento\Evento.iOS\obj\iPhoneSimulator\Debug\FormsTemplateiOS.exe
+D:\PersonalProjects\Evento\Evento\Evento.iOS\obj\iPhoneSimulator\Debug\FormsTemplateiOS.pdb

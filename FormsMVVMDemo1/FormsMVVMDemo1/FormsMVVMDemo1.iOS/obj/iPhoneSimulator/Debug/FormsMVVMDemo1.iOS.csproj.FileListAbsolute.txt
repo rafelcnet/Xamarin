@@ -1,0 +1,13 @@
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\FormsTemplateiOS.exe
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\FormsTemplateiOS.pdb
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\FormsMVVMDemo1.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\FormsMVVMDemo1.pdb
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\FormsMVVMDemo1.dll.mdb
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\obj\iPhoneSimulator\Debug\FormsMVVMDemo1.iOS.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\obj\iPhoneSimulator\Debug\FormsTemplateiOS.exe
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1.iOS\obj\iPhoneSimulator\Debug\FormsTemplateiOS.pdb

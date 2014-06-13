@@ -1,0 +1,9 @@
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\bin\Debug\FormsMVVMDemo1.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\bin\Debug\FormsMVVMDemo1.pdb
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\bin\Debug\Xamarin.Forms.Core.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\bin\Debug\Xamarin.Forms.Core.xml
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\obj\Debug\FormsMVVMDemo1.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\obj\Debug\FormsMVVMDemo1.dll
+D:\PersonalProjects\FormsMVVMDemo1\FormsMVVMDemo1\FormsMVVMDemo1\obj\Debug\FormsMVVMDemo1.pdb
