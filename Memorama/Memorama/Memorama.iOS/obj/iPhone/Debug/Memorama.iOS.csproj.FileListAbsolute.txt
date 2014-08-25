@@ -1,0 +1,13 @@
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\FormsTemplateiOS.exe
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\FormsTemplateiOS.pdb
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Memorama.dll
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Memorama.pdb
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+D:\Software\Memorama\Memorama\Memorama.iOS\obj\iPhone\Debug\Memorama.iOS.csprojResolveAssemblyReference.cache
+D:\Software\Memorama\Memorama\Memorama.iOS\obj\iPhone\Debug\FormsTemplateiOS.exe
+D:\Software\Memorama\Memorama\Memorama.iOS\obj\iPhone\Debug\FormsTemplateiOS.pdb
+D:\Software\Memorama\Memorama\Memorama.iOS\bin\iPhone\Debug\Memorama.dll.mdb

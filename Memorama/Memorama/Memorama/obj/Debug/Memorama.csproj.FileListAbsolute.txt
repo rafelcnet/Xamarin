@@ -1,0 +1,9 @@
+D:\Software\Memorama\Memorama\Memorama\bin\Debug\Memorama.dll
+D:\Software\Memorama\Memorama\Memorama\bin\Debug\Memorama.pdb
+D:\Software\Memorama\Memorama\Memorama\bin\Debug\Xamarin.Forms.Core.dll
+D:\Software\Memorama\Memorama\Memorama\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Software\Memorama\Memorama\Memorama\bin\Debug\Xamarin.Forms.Core.xml
+D:\Software\Memorama\Memorama\Memorama\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Software\Memorama\Memorama\Memorama\obj\Debug\Memorama.csprojResolveAssemblyReference.cache
+D:\Software\Memorama\Memorama\Memorama\obj\Debug\Memorama.dll
+D:\Software\Memorama\Memorama\Memorama\obj\Debug\Memorama.pdb
